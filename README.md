@@ -1,2 +1,1 @@
-# Portofolio-QA
-Portofolio QA
+Experience as a Quality Assurance
