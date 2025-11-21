@@ -57,6 +57,8 @@ I am currently focused on developing my skills in Quality Assurance through self
 ### 📚 Test Documentation
 
 #### Manual Test
+
+- [Test Case With Bug Report](https://docs.google.com/spreadsheets/d/1qrZjhOLrQCndFuq4ougiwVKGuHryjK4ERq6lo6kSEJc/edit?usp=sharing)
 - [Test Summary Report](https://sg.docworkspace.com/d/sIF35gLM7nZvjyAY?sa=601.1037)
 - [Test Case](https://docs.google.com/spreadsheets/d/14oRvUnIZOXhMiEzeTIti1OtfqUAA-IGgbdxHlgmzE6g/edit?usp=sharing)
 - [Creating a Bug Report for the KasirAja Website](https://docs.google.com/spreadsheets/d/1EDLuwSdR_DfujFsICc6fj1rFmAjPPrvHJmCfXg3QvUo/edit?usp=sharing)
