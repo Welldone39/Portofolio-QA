@@ -62,7 +62,10 @@ I am currently focused on developing my skills in Quality Assurance through self
 - [Test Summary Report](https://sg.docworkspace.com/d/sIF35gLM7nZvjyAY?sa=601.1037)
 - [Test Case](https://docs.google.com/spreadsheets/d/14oRvUnIZOXhMiEzeTIti1OtfqUAA-IGgbdxHlgmzE6g/edit?usp=sharing)
 - [Creating a Bug Report for the KasirAja Website](https://docs.google.com/spreadsheets/d/1EDLuwSdR_DfujFsICc6fj1rFmAjPPrvHJmCfXg3QvUo/edit?usp=sharing)
-- [Test With Postman](https://documenter.getpostman.com/view/33829576/2sA3JQ6176#intro)
+
+
+##### API Testing
+- [API Testing ](https://github.com/Welldone39/Learn-API-Testing-With-JSonplaceholder.git)
 
 #### Automation
 
