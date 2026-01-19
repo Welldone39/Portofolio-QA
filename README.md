@@ -58,17 +58,23 @@ I am currently focused on developing my skills in Quality Assurance through self
 
 #### Manual Test
 
-- [Test Case With Bug Report](https://docs.google.com/spreadsheets/d/1qrZjhOLrQCndFuq4ougiwVKGuHryjK4ERq6lo6kSEJc/edit?usp=sharing)
+- [Test Plan OrangeHrm](https://docs.google.com/document/d/1NsLmWHH-8uvNvrGnHXBjfpTkJnYS_cVl/edit?usp=sharing&ouid=103970469116581395818&rtpof=true&sd=true)
+- [Test Case OrangeHrm](https://docs.google.com/spreadsheets/d/178lRxuq7mUVI6gSXKIo5nfj1SM6ybz4sjPnTBzjnwac/edit?usp=sharing)
+- [Example Bug Report](https://docs.google.com/spreadsheets/d/1fIbW46cormPp7LveC0mcE2oVxiFF1-yoSyI_kVyMfQ0/edit?usp=sharing)
 - [Test Summary Report](https://sg.docworkspace.com/d/sIF35gLM7nZvjyAY?sa=601.1037)
 - [Test Case](https://docs.google.com/spreadsheets/d/14oRvUnIZOXhMiEzeTIti1OtfqUAA-IGgbdxHlgmzE6g/edit?usp=sharing)
 - [Creating a Bug Report for the KasirAja Website](https://docs.google.com/spreadsheets/d/1EDLuwSdR_DfujFsICc6fj1rFmAjPPrvHJmCfXg3QvUo/edit?usp=sharing)
 
 
 ##### API Testing
+- [Api Manual Testing Using Postman](https://documenter.getpostman.com/view/50430372/2sBXVcksZ7)
+- [API Automation Test Using Postman](https://drive.google.com/file/d/14cYXO5QtcC6HSIE1GeQ-gtaNW2gePH87/view?usp=sharing)
 - [API Testing ](https://github.com/Welldone39/Learn-API-Testing-With-JSonplaceholder.git)
+
 
 #### Automation
 
+- [Automation Test orangeHrm Using Cypress](https://github.com/Welldone39/Automation_OrangeHrm_Using_Cypress.git)
 - Conducting Flight Booking Application Testing Using Appium
 [Source code](https://github.com/Welldone39/Sanber-Mobile)
 [Documentation](https://drive.google.com/file/d/18mCWfq2gRDQpDRZdmmhqFYNzCHd86zTW/view)
@@ -76,6 +82,9 @@ I am currently focused on developing my skills in Quality Assurance through self
 [Documentation](https://docs.google.com/document/d/1_T7YloU9XDsCTEvxeuTOe7LB_h1e2kviGtjlzZqyVHc/edit?usp=sharing)
 - Creating a Test Plan Using Jmeter
 [Dokumentation](https://drive.google.com/file/d/1rEos1xPQwnAEKpmXCS699TqRCT0FO6eP/view)
+
+#### Basic SQL
+- [ Example SQL](https://drive.google.com/drive/folders/1mMglu-PJZXKU095tlEhh0VTE3SEbQECL?usp=sharing)
 
 #### Exercise
 - Creating Acceptance Criteria and Management Testcase From Requirement
