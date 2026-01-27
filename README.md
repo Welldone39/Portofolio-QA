@@ -95,9 +95,12 @@ I am currently focused on developing my skills in Quality Assurance through self
 ##### Quality Assurance Certification
 - **Quality Assurance Bootcamp – Sanbercode 2024**  
   📄 [View Certificate (PDF)](https://drive.google.com/file/d/1mtjdkifyZ3hZdloJitnMavl10aKspSHG/view?usp=sharing)
-  
-  ![QA Sanbercode Certificate](/img/sertif_QA_sanber_2024_1.jpg) 
-  ![QA Sanbercode Certificate](/img/sertif_QA_sanber_2024_2.jpg)
+
+  <p align="center">
+  <img src="/img/sertif_QA_sanber_2024_1.jpg" width="420" />
+  <img src="/img/sertif_QA_sanber_2024_2.jpg" width="420" />
+</p>
+
 
 - 
 #### 🤝 Connect With Me
