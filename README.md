@@ -114,10 +114,10 @@ I am currently focused on developing my skills in Quality Assurance through self
 <table>
   <tr>
     <td>
-      <img src="/img/Sertificat Sanbercode 2_page-0001.jpg"/>
+      <img src="/img/Sertificat Sanbercode 2_page-0001.jpg"width="260"/>
     </td>
     <td>
-      <img src="/img/Sertificat Sanbercode 2_page-0002.jpg"/>
+      <img src="/img/Sertificat Sanbercode 2_page-0002.jpg"width="260"/>
     </td>
   </tr>
 </table>
